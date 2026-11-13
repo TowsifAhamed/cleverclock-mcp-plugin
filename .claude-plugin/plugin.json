@@ -1,0 +1,11 @@
+{
+  "name": "cleverclock",
+  "description": "One CleverClock login, all your Gmail, Google Calendar, Outlook and Microsoft 365 accounts. Search mail across every inbox, find free time across every calendar, draft and send replies, schedule meetings, track outreach and follow-ups (job hunting, collaborations, sales), and get CleverClock's time insights. Works in Cowork and Claude Code.",
+  "version": "1.0.0",
+  "author": { "name": "Towsif Ahamed" },
+  "homepage": "https://assistaudit.daamdekhi.com/mcp",
+  "repository": "https://github.com/TowsifAhamed/cleverclock-mcp-plugin",
+  "license": "MIT",
+  "keywords": ["calendar", "email", "gmail", "outlook", "scheduling", "outreach", "productivity"],
+  "skills": "./skills"
+}

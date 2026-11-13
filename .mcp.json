@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cleverclock": {
+      "type": "http",
+      "url": "https://cleverclock-mcp.daamdekhi.com/mcp"
+    }
+  }
+}
